@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Form Filling Bot",
+    "version": "1.0",
+    "description": "Auto-fill forms with user data.",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab",
+      "storage",
+      "scripting"
+    ]
+  }
+  
